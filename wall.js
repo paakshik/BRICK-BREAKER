@@ -1,0 +1,15 @@
+/*
+class Wall{
+    constructor(){
+    
+    
+    
+    }
+    show(){
+    
+    
+        
+    }
+    
+    }
+    */

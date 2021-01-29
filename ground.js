@@ -1,0 +1,13 @@
+class Ground{
+    constructor(){
+    
+    
+    
+    }
+    show(){
+    
+    
+        
+    }
+    
+    }
